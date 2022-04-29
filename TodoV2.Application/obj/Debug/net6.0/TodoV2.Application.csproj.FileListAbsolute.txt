@@ -1,0 +1,15 @@
+C:\Users\ibrah\source\repos\TodoV2\TodoV2.Application\bin\Debug\net6.0\TodoV2.Application.deps.json
+C:\Users\ibrah\source\repos\TodoV2\TodoV2.Application\bin\Debug\net6.0\TodoV2.Application.dll
+C:\Users\ibrah\source\repos\TodoV2\TodoV2.Application\bin\Debug\net6.0\ref\TodoV2.Application.dll
+C:\Users\ibrah\source\repos\TodoV2\TodoV2.Application\bin\Debug\net6.0\TodoV2.Application.pdb
+C:\Users\ibrah\source\repos\TodoV2\TodoV2.Application\bin\Debug\net6.0\TodoV2.Domain.dll
+C:\Users\ibrah\source\repos\TodoV2\TodoV2.Application\bin\Debug\net6.0\TodoV2.Domain.pdb
+C:\Users\ibrah\source\repos\TodoV2\TodoV2.Application\obj\Debug\net6.0\TodoV2.Application.csproj.AssemblyReference.cache
+C:\Users\ibrah\source\repos\TodoV2\TodoV2.Application\obj\Debug\net6.0\TodoV2.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrah\source\repos\TodoV2\TodoV2.Application\obj\Debug\net6.0\TodoV2.Application.AssemblyInfoInputs.cache
+C:\Users\ibrah\source\repos\TodoV2\TodoV2.Application\obj\Debug\net6.0\TodoV2.Application.AssemblyInfo.cs
+C:\Users\ibrah\source\repos\TodoV2\TodoV2.Application\obj\Debug\net6.0\TodoV2.Application.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\source\repos\TodoV2\TodoV2.Application\obj\Debug\net6.0\TodoV2.Application.csproj.CopyComplete
+C:\Users\ibrah\source\repos\TodoV2\TodoV2.Application\obj\Debug\net6.0\TodoV2.Application.dll
+C:\Users\ibrah\source\repos\TodoV2\TodoV2.Application\obj\Debug\net6.0\ref\TodoV2.Application.dll
+C:\Users\ibrah\source\repos\TodoV2\TodoV2.Application\obj\Debug\net6.0\TodoV2.Application.pdb
