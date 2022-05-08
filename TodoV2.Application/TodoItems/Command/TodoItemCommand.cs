@@ -37,7 +37,10 @@ namespace TodoV2.Application.TodoItems.Command
 
         public TodoItemQueryModel ToggleIsDone(int todoId)
         {
-            var item = _database.Todos.Find(todoId);
+            var item = _database.Todos.Where(t => t.IsDeleted==false && t.Id==todoId).FirstOrDefault();
+            if (item == null) {
+                return null;
+            }
             item.IsDone = !item.IsDone;
             _database.SaveChanges();
             var itemQuery = _mapper.Map<TodoItemQueryModel>(item);
